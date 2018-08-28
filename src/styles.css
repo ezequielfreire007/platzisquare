@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+head{
+    background-color: greenyellow;
+    font-family: 'Pacifico', cursive;
+    font-size-adjust: inherit;
+}
+
+body{
+    font-family: 'Pacifico', cursive;
+    font-size-adjust: inherit;
+}
